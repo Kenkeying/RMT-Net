@@ -4,21 +4,21 @@ The CT slices andX-rayimages of the COVID-19 patients are collected as the exper
 
 ![datasets](./pictures/lung1.png)
 
-![datasets](./lung2.png)
+![datasets](./pictures/lung2.png)
 
-![datasets](./lung3.png)
+![datasets](./pictures/lung3.png)
 
-![datasets](/RMT-Net/lung4.png)
+![datasets](./pictures/lung4.png)
 
-![datasets](/RMT-Net/lung5.png)
+![datasets](./pictures/lung5.png)
 
-![datasets](/RMT-Net/lung6.png)
+![datasets](./pictures/lung6.png)
 ### Overal Architecture
-![architecture](/RMT-Net/RMT.svg)
+![architecture](./pictures/RMT.svg)
 
-![architecture](/RMT-Net/RMT2.svg)
+![architecture](./pictures/RMT2.svg)
 
-![architecture](/RMT-Net/TF.svg)
+![architecture](./pictures/TF.svg)
 
 ## Environment Preparing
 Requirements
@@ -46,9 +46,9 @@ Jupyter
 
 ### Result
 
-![Result](/RMT-Net/val1.svg)
+![Result](./pictures/val1.svg)
 
-![Result](/RMT-Net/val2.svg)
+![Result](./pictures/val2.svg)
 
-![Result](/RMT-Net/data.svg)
+![Result](./pictures/data.svg)
 
