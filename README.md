@@ -18,7 +18,7 @@ The CT slices andX-rayimages of the COVID-19 patients are collected as the exper
 
 ![architecture](./pictures/RMT2.svg)
 
-![architecture](./pictures/TF.svg)
+![architecture](./pictures/TR.svg)
 
 ## Environment Preparing
 Requirements
