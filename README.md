@@ -1,6 +1,7 @@
 # RMT-net
 ### Datasets
 The CT slices andX-rayimages of the COVID-19 patients are collected as the experimental dataset from GitHub, Kaggle, Kesci websites and Wuhan Tongji Hospital (https://github.com/ieee8023/covid-chestxray-dataset, https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia, https://www.kesci.com/mw/dataset/5e746ec998d4a8002d2b0861).
+
 ![datasets](./pictures/lung1.png)
 
 ![datasets](./lung2.png)
