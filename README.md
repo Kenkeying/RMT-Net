@@ -26,7 +26,7 @@ Requirements
 
 The main requirements are listed below:
 ```
-Training with Tensorflow 1.8.0 and Keras 2.1.4
+Training with Pytorch 1.9
 
 Python 3.6
 
@@ -41,6 +41,7 @@ Additional requirements to generate dataset:
 Pandas
 
 Jupyter
+...
 
 ```
 
